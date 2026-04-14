@@ -152,5 +152,9 @@ The following diagram illustrates the internal architecture of the smart energy 
 
 ## 📸 Project Gallery
 
-*(Add your images here — hardware setup, graphs, PCB design, etc.)*
+<img width="421" height="701" alt="Image" src="https://github.com/user-attachments/assets/f644a50e-9523-490b-b56a-80d8c1c08f43" />
+
+<img width="425" height="744" alt="Image" src="https://github.com/user-attachments/assets/dcb629c2-fcf2-4bc2-b6f9-73e84b1f056c" />
+
+<img width="377" height="503" alt="Image" src="https://github.com/user-attachments/assets/264d5dbd-1e53-471b-b806-ab5408cabeaf" />
 
