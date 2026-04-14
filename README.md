@@ -32,7 +32,7 @@ The system consists of:
 
 The following diagram illustrates the internal architecture of the smart energy meter, including sensing, processing, and communication modules.
 
-![System Architecture](assets/system-architecture.png)
+![System Architecture](<img width="1450" height="777" alt="Image" src="https://github.com/user-attachments/assets/029d57a7-0a69-4093-b12e-d6dbf730dabb" />)
 
 ### 🔍 Description
 
