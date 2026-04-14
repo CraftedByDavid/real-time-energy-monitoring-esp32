@@ -36,6 +36,8 @@ The following diagram illustrates the internal architecture of the smart energy 
 
 ![energy meter archotecture](https://github.com/user-attachments/assets/4b1cb338-5a18-406c-96f8-b35c14c9f08d)
 
+![Schematic of energy meter](https://github.com/user-attachments/assets/13d17f90-09cb-48fc-8f80-143b4e74fe25)
+
 ### 🔍 Description
 
 - **Sensors**: ACS712, SCT-013, and ZMPT101B measure current and voltage  
